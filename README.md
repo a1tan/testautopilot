@@ -1,3 +1,4 @@
+# Bootstrap with ArgoCD Autopilot
 This scenario shows the steps to install ArgoCD with ArgoCD Autopilot
 
 Check if kubernetes is up and running(It can take some time):
